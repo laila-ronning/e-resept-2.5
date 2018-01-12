@@ -1,0 +1,6 @@
+Til informasjon: M9.12 benytter ReseptInfo fra M9.2 versjon 2.5. Denne har nødvendigvis ikke støtte i et v2.4-miljø. Vi ser på hvordan dette skal løses best praktisk. 
+
+-espen
+
+Espen.Stranger.Seland@helsedir.no
+982 16 832

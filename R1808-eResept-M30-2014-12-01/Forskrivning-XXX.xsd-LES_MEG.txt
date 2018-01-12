@@ -1,0 +1,2 @@
+XSD for Forskrivning ligger i katalogen ../Felles av praktiske årsaker, 
+da den blir brukt av flere andre meldinger. 
